@@ -1,10 +1,8 @@
 public class PhraseOMatic {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+       
        String[] wordListOne = { "hello","hi","who","wining","you","how","loseing","god","dear"};
        String[] wordListTwo = {"name","Gajendra","Choudhary","dua","lipa","card","code","java","lion"};
        String[] wordListThree = {"raja","flower","mole","atom","kitty","perry","daredevil","ironfist","bahubali"};
